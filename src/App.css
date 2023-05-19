@@ -64,15 +64,15 @@
   border-radius: 50%;
 }
 .button-complete {
-  color: #ff6c6c;
+  color: #58f743;
   margin-right: 10px;
 }
 .button-edit {
-  color: #e2d029;
+  color: #f1dd21;
   margin-right: 10px;
 }
 .button-delete {
-  color: lightseagreen;
+  color: rgb(247, 66, 35);
 }
 .complete {
   text-decoration-style: solid;
